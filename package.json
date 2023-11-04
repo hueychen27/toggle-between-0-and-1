@@ -1,6 +1,6 @@
 {
   "name": "toggle-between-0-and-1",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Do a bunch of toggling stuff (0s and 1s)",
   "main": "toggle.js",
   "scripts": {},
