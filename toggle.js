@@ -11,7 +11,7 @@
  * something.value = 132481; // Sets value property to 1 because 132481 % 2 = 1
  * something.value; // Returns 1
  */
-export class Toggle {
+module.exports = class Toggle {
     #toggleTimes = 0;
     #value;
     /**
